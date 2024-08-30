@@ -2,10 +2,10 @@
 
 ## WebGL
 
-### WebGLでのテクスチャの使用（ライティングあり）
+### グラフィックの描画（ライブラリの使用）
 
-MDN Web Docsにあったソースコードを利用してテクスチャの使用をしました。これからもうちょっと踏み込んでいろいろと更新していきたいと思います。
+MDN Web Docsにあったソースコードを利用してグラフィックの描画をしてみました。これからもうちょっと踏み込んでいろいろと更新していきたいと思います。
 
-参考サイト: [https://developer.mozilla.org/ja/docs/Web/API/WebGL_API/Tutorial/Lighting_in_WebGL/](https://developer.mozilla.org/ja/docs/Web/API/WebGL_API/Tutorial/Lighting_in_WebGL/ "https://developer.mozilla.org/ja/docs/Web/API/WebGL_API/Tutorial/Lighting_in_WebGL/")
+参考サイト: [https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics/](https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics/ "https://developer.mozilla.org/ja/docs/Learn/JavaScript/Client-side_web_APIs/Drawing_graphics/")
 
 [完成ページへ](https://yscyber.github.io/webgl/ "https://yscyber.github.io/webgl/")
