@@ -2,9 +2,10 @@
 <html lang="ja">
 <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>WebGL</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gl-matrix/2.8.1/gl-matrix-min.js" integrity="sha512-zhHQR0/H5SEBL3Wn6yYSaTTZej12z0hVZKOv3TwCUXT1z5qeqGcXJLLrbERYRScEDDpYIJhPC1fk31gqR783iQ==" crossorigin="anonymous" defer></script>
-    <script src="webgl-demo.js" type="module"></script>
+    <script src="three-min.js" type="text/javascript" defer></script>
+    <script src="three-cube.js" type="text/javascript" defer></script>
     <style>
         html,
         body {
@@ -12,16 +13,11 @@
         }
 
         body {
-            height: inherit;
             overflow: hidden;
-        }
-
-        canvas {
-            width: 100%;
         }
     </style>
 </head>
 <body>
-    <canvas id="glcanvas"></canvas>
+
 </body>
 </html>
