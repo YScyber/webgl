@@ -11,7 +11,7 @@ let cube;
 
 const loader = new THREE.TextureLoader();
     
-loader.load("logo.png", (texture) => {
+loader.load("material/logo.png", (texture) => {
     texture.wrapS = THREE.RepeatWrapping;
     texture.wrapT = THREE.RepeatWrapping;
     texture.repeat.set(1, 1);
